@@ -1,3 +1,3 @@
 # 7-up-or-down-Game
 
-# Work in progress. To be continued soon.
+It's a simple game(flutter demo project) which has a custom switch
